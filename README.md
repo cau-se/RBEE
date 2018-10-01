@@ -1,2 +1,5 @@
 # RBEE
-Regression Benchmarking Execution Environment 
+
+ Regression Benchmarking for Continuous Integration Environments
+ 
+ See https://www.rbee.io/
