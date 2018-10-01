@@ -2,4 +2,4 @@
 
  Regression Benchmarking for Continuous Integration Environments
  
- See https://www.rbee.io/
+ See https://github.com/rbee-dev
